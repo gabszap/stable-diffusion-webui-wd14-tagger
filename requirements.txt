@@ -12,4 +12,5 @@ pandas
 Pillow
 tensorflow
 tqdm
-onnxruntime
+onnxruntime==1.20.0
+onnxruntine-gpu
