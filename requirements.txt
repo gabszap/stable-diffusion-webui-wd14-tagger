@@ -13,4 +13,3 @@ Pillow
 tensorflow
 tqdm
 onnxruntime==1.20.0
-onnxruntine-gpu
